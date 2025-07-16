@@ -1,0 +1,1 @@
+Touseef Ali is a Fulbright scholar. He received the B.S. degree from NUST, Pakistanin 2013 and M.S. degree from Air University, Pakistan in 2018. He has over 5 yearsof experience working in R&D organizations. His research interests include signalprocessing, remote sensing and machine learning.

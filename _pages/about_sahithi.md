@@ -1,0 +1,1 @@
+Sahithi Chenreddy is a Master’s student at Arizona State University, advised by Dr.Christ D. Richmond. Her research interests include applications of machine learningand deep learning to communication systems and control systems. She received herBachelor’s degree in Electrical & Electronic Engineering from Visvesvaraya NationalInstitute of Technology.
